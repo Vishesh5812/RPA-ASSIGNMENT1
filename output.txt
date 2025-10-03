@@ -1,0 +1,141 @@
+10/03/2025 19:47:58 => [Debug] Execution started for file: Main
+10/03/2025 19:47:59 => [Info] Assignment1-Redo execution started
+10/03/2025 19:48:01 => [Debug] Invoice
+Invoice number: 5278945336
+Google Cloud EMEA Limited
+Velasco
+Clanwilliam Place
+Dublin 2
+Ireland
+VAT number: IE3668997OH
+
+Bill to
+Muhammad Shuaib
+Ex-Airport Road Plaine Magnien
+Plaine Magnien ,Grand-Port,Mauritius
+Mauritius
+
+Details Google Cloud
+Invoice number 5278945336
+.......................................... ....................
+.......................................... .................... US$0.00
+Invoice date 31 May 2025 Total in USD
+.......................................... ....................
+Billing ID 9694-7015-3324
+.......................................... ....................
+Account ID 01E775-59F6B5-FBB7A3 Summary for 1 May 2025 - 31 May 2025
+
+Subtotal in USD US$0.00
+VAT (0%) US$0.00
+Total in USD US$0.00
+
+You will be automatically charged for any amount due.
+
+Page 1 of 2Invoice Invoice number: 5278945336
+
+Use the Google Cloud Platform cost table to view and download detailed usage data such as per-project costs:
+console.cloud.google.com/billing/01E775-59F6B5-FBB7A3/reports/tabular.
+
+Description Amount(US$)
+
+Google Cloud – Fee for May 2025 0.00
+
+Subtotal in USD US$0.00
+VAT (0%) US$0.00
+
+Total in USD US$0.00
+
+Page 2 of 2
+10/03/2025 19:48:01 => [Debug] Invoice
+Invoice number: 5305107848
+Google Cloud EMEA Limited
+Velasco
+Clanwilliam Place
+Dublin 2
+Ireland
+VAT number: IE3668997OH
+
+Bill to
+Muhammad Shuaib
+Ex-Airport Road Plaine Magnien
+Plaine Magnien ,Grand-Port,Mauritius
+Mauritius
+
+Details Google Cloud
+Invoice number 5305107848
+.......................................... ....................
+.......................................... .................... US$0.00
+Invoice date 30 Jun 2025 Total in USD
+.......................................... ....................
+Billing ID 9694-7015-3324
+.......................................... ....................
+Account ID 01E775-59F6B5-FBB7A3 Summary for 1 Jun 2025 - 30 Jun 2025
+
+Subtotal in USD US$0.00
+VAT (0%) US$0.00
+Total in USD US$0.00
+
+You will be automatically charged for any amount due.
+
+Page 1 of 2Invoice Invoice number: 5305107848
+
+Use the Google Cloud Platform cost table to view and download detailed usage data such as per-project costs:
+console.cloud.google.com/billing/01E775-59F6B5-FBB7A3/reports/tabular.
+
+Description Amount(US$)
+
+Google Cloud – Fee for June 2025 0.00
+
+Subtotal in USD US$0.00
+VAT (0%) US$0.00
+
+Total in USD US$0.00
+
+Page 2 of 2
+10/03/2025 19:48:01 => [Debug] CELERO LTD
+Celero House, 3 Business and Industrial Park,
+Riche Terre 21803, Rep. of Mauritius
+TEL: +230 202 0000  FAX: +230 211 5909
+VAT: VAT20170528     BRN: C07018951
+
+VAT INVOICE
+
+Teeluck Muhammad Shu'aib TEL: 57058411 INVOICE No. : INV093528C PAGE 1 / 1
+Ex Airport Road Plaine magnien, FAX: DATE : 13/06/2024
+Grand-port EMAIL: shuaib3011@gmail.com DUE DATE :
+ATTENTION: FILE No. : CB0590624
+DN No. :
+
+No AWB No DATE DEST/ORIGIN CONSIGNEE/SHIPPER CONTENTS QTY KGS DESCRIPTION AMOUNT VAT TOTAL
+1 MU002470720R 12/06/2024 MAURITIUS CAINIAO LED Headlamps 1 0.25 VAT AT CUSTOMS (L) 74.00 0.00 74.00
+MACCS FEE 50.00 7.50 57.50
+BROKERAGE FEE 200.00 30.00 230.00
+TOTAL (MUR): 324.00 37.50 361.50
+
+This is a computer generated document and does not require signature.
+10/03/2025 19:48:01 => [Debug] CELERO LTD
+
+Celero House, 3 Business and Industrial Park,
+Riche Terre 21803, Rep. of Mauritius
+TEL: +230 202 0000  FAX: +230 211 5909
+VAT: VAT20170528     BRN: C07018951
+
+VAT INVOICE
+
+Teeluck Muhammad Shu'aib TEL: 57058411 INVOICE No. : INV255454C PAGE 1 / 1
+Ex Airport Road Plaine magnien, FAX: DATE : 19/12/2024
+Grand-port EMAIL: shuaib3011@gmail.com DUE DATE :
+ATTENTION: FILE No. : CB1051224
+DN No. :
+
+No AWB No DATE DEST/ORIGIN CONSIGNEE/SHIPPER CONTENTS QTY KGS DESCRIPTION AMOUNT VAT TOTAL
+1 MU004561841R 12/12/2024 HONG KONG Teeluck Muhammad metal fishing 1 1.43 MACCS FEE 50.00 7.50 57.50
+
+BROKERAGE FEE 300.00 45.00 345.00
+
+CUSTOMS VAT (D) 2,324.00 0.00 2,324.00
+
+TOTAL (MUR): 2,674.00 52.50 2,726.50
+
+This is a computer generated document and does not require signature.
+10/03/2025 19:48:01 => [Info] Assignment1-Redo execution ended in: 00:00:01
